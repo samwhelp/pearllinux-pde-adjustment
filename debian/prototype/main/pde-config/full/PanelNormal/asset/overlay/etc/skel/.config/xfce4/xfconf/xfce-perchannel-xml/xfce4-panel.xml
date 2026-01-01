@@ -28,6 +28,7 @@
 				<value type="int" value="10"/>
 				<value type="int" value="6"/>
 				<value type="int" value="7"/>
+				<value type="int" value="15"/>
 				<value type="int" value="8"/>
 			</property>
 			<property name="position" type="string" value="p=6;x=0;y=0"/>
@@ -113,6 +114,11 @@
 		<property name="plugin-14" type="string" value="launcher">
 			<property name="items" type="array">
 				<value type="string" value="xfce4-terminal.desktop"/>
+			</property>
+		</property>
+		<property name="plugin-15" type="string" value="launcher">
+			<property name="items" type="array">
+				<value type="string" value="pde-logout.desktop"/>
 			</property>
 		</property>
 	</property>
